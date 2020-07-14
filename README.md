@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Check out by [blog](https://blog.leonti.dev)  
+
+[AvoCV](https://avocv.com) Resume generator using html templates. Build with Typescript and hosted on AWS (lambdas, lambdas everywhere...)
+
 <!--
 **Leonti/Leonti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
